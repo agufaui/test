@@ -1,0 +1,3 @@
+src/lib/*
+!src/lib/config.ts
+!src/lib/locale.ts
