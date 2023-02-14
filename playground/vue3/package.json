@@ -12,10 +12,11 @@
     "lintfix": "nr lint --fix"
   },
   "dependencies": {
-    "@agufaui/vue": "workspace:^0.6.0",
+    "@agufaui/vue": "workspace:^0.7.0",
     "vue": "^3.2.37"
   },
   "devDependencies": {
     "@unocss/reset": "^0.44.0"
-  }
+  },
+  "version": "1.0.0"
 }

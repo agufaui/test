@@ -10,5 +10,6 @@
     "clean": "rimraf dist",
     "lint": "eslint . --ext .html --ignore-path ../../.eslintignore .",
     "lintfix": "nr lint --fix"
-  }
+  },
+  "version": "1.0.0"
 }
