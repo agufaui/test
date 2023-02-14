@@ -1,5 +1,6 @@
 {
   "name": "@agufaui/playground-nuxt3auto",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "build": "nuxt build",

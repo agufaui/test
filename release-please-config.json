@@ -117,8 +117,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     },
@@ -127,8 +127,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     },
@@ -137,8 +137,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     },
@@ -147,8 +147,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     },
@@ -157,8 +157,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     },
@@ -167,8 +167,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     },
@@ -177,8 +177,8 @@
       "skip-github-release": true,
       "draft": false,
       "prerelease": false,
-      "bumpMinorPreMajor": false,
-      "bumpPatchForMinorPreMajor": false,
+      "bumpMinorPreMajor": true,
+      "bumpPatchForMinorPreMajor": true,
       "changelogPath": "CHANGELOG.md",
       "versioning": "default"
     }
