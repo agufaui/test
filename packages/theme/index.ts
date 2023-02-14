@@ -22,3 +22,5 @@ export type { IATagProps, IATagEmits, IATagEmitsS } from "./types/ATag";
 export type { IASupProps } from "./types/ASup";
 export type { IASubProps } from "./types/ASub";
 export type { IAMobileProps, IAMobileEmits, IAMobileEmitsS } from "./types/AMobile";
+
+export type d = string;

@@ -13,6 +13,7 @@ button(
     span(v-if="loading" class="animate-spin preserve-3d" :class="[cloadicon, cloadc]")
     span(v-else-if="ci" :class="[ci, cic]")
     span(v-if="v" :class="cvc") {{ v }}
+    span hi
 </template>
 
 <script lang="ts">
