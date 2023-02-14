@@ -1,5 +1,5 @@
 {
-  "name": "nuxt3auto",
+  "name": "@agufaui/playground-nuxt3auto",
   "private": true,
   "scripts": {
     "build": "nuxt build",

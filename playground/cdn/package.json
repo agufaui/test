@@ -1,5 +1,5 @@
 {
-  "name": "cdn",
+  "name": "@agufaui/playground-cdn",
   "private": "true",
   "scripts": {
     "dev": "vite",

@@ -1,5 +1,5 @@
 {
-  "name": "vue3",
+  "name": "@agufaui/playground-vue3",
   "private": true,
   "scripts": {
     "dev": "vite",

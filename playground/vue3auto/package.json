@@ -1,5 +1,5 @@
 {
-  "name": "vue3auto",
+  "name": "@agufaui/playground-vue3auto",
   "private": true,
   "scripts": {
     "dev": "vite",

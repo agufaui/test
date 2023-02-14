@@ -1,5 +1,5 @@
 {
-  "name": "vue3manual",
+  "name": "@agufaui/playground-vue3manual",
   "private": true,
   "scripts": {
     "dev": "vite",
